@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "led")
+set(led_MAINTAINER "pi <pi@todo.todo>")
+set(led_DEPRECATED "")
+set(led_VERSION "0.0.0")
+set(led_BUILD_DEPENDS "roscpp" "rospy" "std_msgs" "message_generation")
+set(led_RUN_DEPENDS "roscpp" "rospy" "std_msgs" "message_runtime")
+set(led_BUILDTOOL_DEPENDS "catkin")

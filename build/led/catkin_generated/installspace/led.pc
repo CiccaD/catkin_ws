@@ -1,0 +1,6 @@
+Name: led
+Description: Description of led
+Version: 0.0.0
+Cflags: -I/home/pi/catkin_ws/install/include
+Libs: -L/home/pi/catkin_ws/install/lib 
+Requires: message_runtime
